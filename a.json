@@ -80,27 +80,11 @@
               "id": "AdaBoost"
             }
           ]
+        },
+        {
+              "id": "Bagging"
         }
-      ]
-    },
-    {
-      "id": "Regression",
-      "children": [
-        {
-          "id": "Multiple linear regression"
-        },
-        {
-          "id": "Partial least squares"
-        },
-        {
-          "id": "Multi-layer feedforward neural network"
-        },
-        {
-          "id": "General regression neural network"
-        },
-        {
-          "id": "Support vector regression"
-        }
+            
       ]
     }
   ]
