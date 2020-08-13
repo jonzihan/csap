@@ -49,7 +49,7 @@
             "id": "Bagging",
             "children": [
             {
-              "id": "Classifier selection2"
+              "id": "Classifier selection"
             },
             {
               "id": "Classifier fusion2"
