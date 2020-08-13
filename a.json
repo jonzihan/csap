@@ -46,7 +46,15 @@
           ]
         },
         {
-              "id": "Bagging"
+            "id": "Bagging",
+            "children": [
+            {
+              "id": "Classifier selection2"
+            },
+            {
+              "id": "Classifier fusion2"
+            }
+          ]
         }    
       ]
     }
