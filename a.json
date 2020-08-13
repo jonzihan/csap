@@ -46,7 +46,7 @@
           ]
         },
         {
-            "id": "Bagging2",
+            "id": "Bagging",
             "children": [
             {
               "id": "Classifier selection2"
